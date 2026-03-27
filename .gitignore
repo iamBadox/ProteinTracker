@@ -1,0 +1,27 @@
+# Xcode
+*.xcuserstate
+*.xcbkptlist
+xcuserdata/
+*.moved-aside
+*.pbxuser
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
