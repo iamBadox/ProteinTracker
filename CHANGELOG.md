@@ -4,6 +4,13 @@ All notable changes to ProteinTracker will be documented here.
 
 ---
 
+## [1.1.1] – 2026-03-27
+
+### Added
+- `README.md` — describes the app, its purpose, features, and tech stack
+
+---
+
 ## [1.1.0] – 2026-03-27
 
 ### Fixed
