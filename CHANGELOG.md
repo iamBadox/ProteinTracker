@@ -3,6 +3,13 @@
 All notable changes to ProteinTracker will be documented here.
 
 ---
+## [1.1.2] – 2026-04-24
+
+### Added
+- App icon: bold green P on a dark navy background with molecule dots, representing protein and nutrition
+
+---
+
 ## [Security] – 2026-04-16
 
 ### Security
